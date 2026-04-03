@@ -70,7 +70,7 @@ const contests: {
   {
     name: "WWP Informatics Tournament (WWPIT)",
     photo: wwpit,
-    link: "https://wwppc.tech/",
+    link: "https://wwppc.org/",
     desc: "WWPIT is a round-based informatics tournament with advanced and novice divisions targeting competitive programmers of all skill levels, hosted by students at West Windsor-Plainsboro High School South.",
   },
   {
