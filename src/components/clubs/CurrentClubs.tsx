@@ -1377,6 +1377,41 @@ const clubs: {
     photo: img.iiit_sonepat,
     region: "India",
   },
+  {
+    name: "Epsom College Malaysia",
+    photo: img.epsom_college_malaysia,
+    region: "Malaysia",
+  },
+  {
+    name: "IIT Kharagpur",
+    photo: img.iit_kharagpur,
+    region: "India",
+  },
+  {
+    name: "Macleans College",
+    photo: img.macleans_college,
+    region: "New Zealand",
+  },
+  {
+    name: "IIIT Allahabad",
+    photo: img.iiit_allahabad,
+    region: "India",
+  },
+  {
+    name: "Anglo-Chinese School (Independent)",
+    photo: img.anglo_chinese_school_independent,
+    region: "Singapore",
+  },
+  {
+    name: "Tashkent University of Information Technologies",
+    photo: img.tashkent_university_of_information_technologies,
+    region: "Uzbekistan",
+  },
+  {
+    name: "San Dimas High School",
+    photo: img.san_dimas_high_school,
+    region: "California",
+  },
 ].sort((x, y) => x.name.localeCompare(y.name))
 
 export default function CurrentClubs() {
