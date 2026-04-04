@@ -273,6 +273,13 @@ import mt_view_hs from "./mt_view_hs.jpg"
 import galgotias_college from "./galgotias_college.jpg"
 import ku_leuven from "./ku_leuven.png"
 import iiit_sonepat from "./iiit_sonepat.jpg"
+import epsom_college_malaysia from "./epsom_college_malaysia.jpg"
+import iit_kharagpur from "./iit_kharagpur.jpeg"
+import macleans_college from "./macleans_college.jpeg"
+import iiit_allahabad from "./iiit_allahabad.jpeg"
+import anglo_chinese_school_independent from "./anglo_chinese_school_independent.jpeg"
+import tashkent_university_of_information_technologies from "./tashkent_university_of_information_technologies.jpeg"
+import san_dimas_high_school from "./san_dimas_high_school.jpeg"
 
 export {
   algonquin,
@@ -550,4 +557,11 @@ export {
   galgotias_college,
   ku_leuven,
   iiit_sonepat,
+  epsom_college_malaysia,
+  iit_kharagpur,
+  macleans_college,
+  iiit_allahabad,
+  anglo_chinese_school_independent,
+  tashkent_university_of_information_technologies,
+  san_dimas_high_school,
 }
