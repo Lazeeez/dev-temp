@@ -10,7 +10,7 @@ export default function Results() {
   return (
     <Layout>
       <SEO
-        title="USACO Guide Informatics Tournament: 2025 Results"
+        title="USACO Guide Informatics Tournament: 2026 Results"
         description="An annual precollege programming contest held by the Competitive Programming Initiative to reward growth in problem-solving and computer science."
       />
 
@@ -26,12 +26,12 @@ export default function Results() {
               <br /> Informatics Tournament
             </h1>
             <h1 className="text-2xl text-gray-500 font-semibold md:text-3xl lg:text-4xl pt-4 pb-2 py-4 mx-auto text-center">
-              2025 Results
+              2026 Results
             </h1>
             <div className="flex justify-around gap-x-4 w-fit mx-auto">
               <Link
                 className="mx-auto text-white rounded-xl focus:translate-y-1 hover:underline transition-all duration-150 mt-4 lg:text-xl px-8 py-3"
-                href={"https://codeforces.com/gym/105786"}
+                href={"https://codeforces.com/gym/106430"}
               >
                 View problems &rarr;
               </Link>
@@ -46,7 +46,7 @@ export default function Results() {
               <Link
                 className="mx-auto text-white rounded-xl focus:translate-y-1 hover:underline transition-all duration-150 mt-4 lg:text-xl px-8 py-3"
                 href={
-                  "https://www.dropbox.com/scl/fo/yon7q9004ox0oh3otxtok/AEWNmBQydRUAniWjiRiKQdM?rlkey=hx7h5roz0czfr0ugzc5jurpvp&st=zkd4agep&dl=0"
+                  "https://drive.google.com/file/d/1Q8c1VP5swJ8AWD3OVxnAmwKROhyzSTxD/view?usp=sharing"
                 }
               >
                 View Editorial &rarr;
@@ -73,16 +73,16 @@ export default function Results() {
           </div>
           <div className="md:basis-1/2 lg:mt-0 mt-8 text-center">
             <div className="text-2xl pb-2">
-              1st place: Nivedhana Ramachandran (nivedhana)
+              1st place: Ahmet Alp Orakçı (ahmetalp)
             </div>
             <div className="flex flex-row justify-center pb-2 text-xl">
-              <div className="pr-4">2nd place: Rohin Garg (PurpleCrayon)</div>
-              <div>3rd place: Botao Yuan (z)</div>
+              <div className="pr-4">2nd place: Kiryl Kardash (k1r1t0)</div>
+              <div>3rd place: Paarth Nathani (paarth)</div>
             </div>
             <div className="text-lg">
-              4th place: Brian Xue (hyforces), 5th place: Brian Law (lwm7708),
-              6th place: Sathvik Prasanna (scotchtape13), 7th place: Tony Zhu
-              (tony1234), 8th place: Kirill Kardash (k1r1t0)
+              4th place: Lucas Kirazci (lucaski2), 5th place: Kai Jiang
+              (kaiboy), 6th place: Slonepi Dorik (Dauzhen), 7th place: Soham
+              Samanta (CodingPokemon), 8th place: Relja Aleksic (turneja)
             </div>
           </div>
         </section>
@@ -94,18 +94,16 @@ export default function Results() {
           </div>
           <div className="md:basis-1/2 lg:mt-0 mt-8 text-center">
             <div className="text-2xl pb-2">
-              1st place: Maite Carrera (ratomcito) <br />
+              1st place: Jimmy Xu (Jim_X)
             </div>
-            <div className="flex flex-col justify-center pb-1 text-xl">
-              <div className="pr-4">
-                2nd place: Anonymous (lmaobruh) <br />
-              </div>
-              <div>3rd place: Suresh Kumar Nenavath (n_suresh)</div>
+            <div className="flex flex-row justify-center pb-2 text-xl">
+              <div className="pr-4">2nd place: Alexei Potter (shortestpi)</div>
+              <div>3rd place: Lindsey Li (lindsey)</div>
             </div>
             <div className="text-lg">
-              4th place: Justin Chen (scooter), 5th place: Ahmed Mansoor
-              (amansoor), 6th place: Nico Young (NicoN9), 7th place: Aaroosh R.
-              (arstag), 8th place: Wasif Shahzad (wasif_shahzad)
+              4th place: Hao Xuan (orz), 5th place: Ya Long (YaLong), 6th
+              place: Brainard Philemon (lemonard), 7th place: Praneel Patel
+              (praneelpa), 8th place: Vladimeri Prangishvili (vako_p)
             </div>
           </div>
         </section>
