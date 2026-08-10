@@ -641,6 +641,7 @@ const _members: { [key: string]: Member } = {
     photo: melody,
     name: "Melody Yu",
     titles: [
+      "Board",
       "President",
       "Director of Outreach",
       roles.videoInstructor,
@@ -805,6 +806,7 @@ const _members: { [key: string]: Member } = {
       roles.contentAuthor,
       roles.workshops,
     ],
+    email: "ryanchou@joincpi.org",
     github: "ryanchou-dev",
     website: "https://www.ryanchou.dev/",
   },
