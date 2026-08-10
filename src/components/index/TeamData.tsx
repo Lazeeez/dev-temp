@@ -808,7 +808,7 @@ const _members: { [key: string]: Member } = {
     ],
     github: "ryanchou-dev",
     website: "https://www.ryanchou.dev/",
-    email: "ryanchou@joincpi.org",
+    email: "ryanchou@joincpi.org"
   },
   ryan_fu: {
     photo: ryan_fu,
