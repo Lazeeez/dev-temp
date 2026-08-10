@@ -28,7 +28,7 @@ export default function Contests() {
               style={{ mixBlendMode: "multiply" }}
             />
           </div>
-          <div className="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8">
+          <div className="relative px-4 pt-32 pb-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8">
             <h1 className="text-center text-4xl text-white font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
               Programming Contests <br />
               <span className="text-purple-300">for High Schoolers.</span>
