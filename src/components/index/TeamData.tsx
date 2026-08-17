@@ -606,7 +606,7 @@ const _members: { [key: string]: Member } = {
   justin_ji: {
     photo: justin_ji,
     name: "Justin Ji",
-    titles: [roles.contentAuthor],
+    titles: ["Director of USACO.Guide", roles.contentAuthor],
     codeforces: "eysbutno",
   },
   justin_huang: {
@@ -642,7 +642,6 @@ const _members: { [key: string]: Member } = {
     name: "Melody Yu",
     titles: [
       "Board",
-      "President",
       "Director of Outreach",
       roles.videoInstructor,
       roles.workshops,
@@ -1048,14 +1047,13 @@ const board: Member[] = [
   _members.siyong,
   _members.evan,
   _members.maggie,
+  _members.melody,
 ]
 
 const currentMembers: Member[] = [
   // board
   _members.nathanw,
   _members.benq,
-
-  _members.melody,
 
   // usaco guide
   _members.dong,
@@ -1070,7 +1068,6 @@ const currentMembers: Member[] = [
   _members.fnu,
   _members.ryan_fu,
   _members.frank,
-  _members.andrew_xu,
   _members.max,
   _members.avyan,
   _members.satvika,
@@ -1167,6 +1164,7 @@ const formerMembers: Member[] = [
   _members.harry,
   _members.ananth,
   _members.varun,
+  _members.andrew_xu,
 ]
 
 function sortPeople(people: Member[]) {
